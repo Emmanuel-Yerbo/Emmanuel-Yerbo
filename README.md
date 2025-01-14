@@ -4,7 +4,7 @@ I'm a passionate GEOSPATIAL, EARTH OBSERVATION, WEBGIS AND DATA SCIENCE ANALYST 
 spatial and data analysis.
 ## 🌱 About Me
 - 🌍 I’m interested in GIS, Remote Sensing, WebGIS, Data Science, Python.
-- 🎓 I’m currently learning Machine and Deep Learning.
+- 🎓 I’m currently learning GeoAI, Machine and Deep Learning.
 - 📫 How to reach me: emmanuelyerbo@gmail.com.
 
 ## 🛠️ Technologies & Tools
